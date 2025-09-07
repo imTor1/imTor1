@@ -76,6 +76,24 @@
   </tr>
 </table>
 
+**Backend & Databases**  
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br>Express
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" width="40"/><br>DBeaver
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🚀 โปรเจกต์ที่ทำและกำลังพัฒนา
